@@ -1,23 +1,20 @@
 ## requirements
 
-To compile this project, you need `cargo`.
+To compile this project, you need `make`.
 
-To install, just run
-```sh
-curl https://sh.rustup.rs -sSf | sh
-rustup toolchain install nightly
-```
+To install, installe `make` using your default package manager
 
 ## How to build 
 
 ```sh
-cargo build
+make
 ```
+will produce a `phonebook` executable
 
 ## How to run
 
 ```sh
-cargo run
+./phonebook
 ```
 
 <!-- ## How to test -->

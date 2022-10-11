@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/g++",
+      "-I./include",
+      "-c",
+      "-O2",
+      "-W",
+      "-Wall",
+      "-Wextra",
+      "-std=c++17",
+      "-o",
+      "build/phonebook.o",
+      "src/phonebook.cpp"
+    ],
+    "directory": "/home/erudyx/DCU/projects/comparative/assignment/assignment1/proc_phonebook",
+    "file": "/home/erudyx/DCU/projects/comparative/assignment/assignment1/proc_phonebook/src/phonebook.cpp",
+    "output": "/home/erudyx/DCU/projects/comparative/assignment/assignment1/proc_phonebook/build/phonebook.o"
+  }
+]

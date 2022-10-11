@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "assignment1"
+name = "oop_phonebook"
 version = "0.1.0"
